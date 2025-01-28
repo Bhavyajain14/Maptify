@@ -15,12 +15,6 @@
 
 ---
 
-## Optional Enhancements (if implemented)
-
-- **Animations**: Smooth animations for marker interactions and popups.
-- **Geolocation**: Users can find their current location on the map.
-- **Category Filtering**: Filter markers by categories like restaurants, parks, or museums.
-
 ---
 
 ## Installation and Usage
